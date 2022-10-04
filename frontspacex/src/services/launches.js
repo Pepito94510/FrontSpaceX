@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-export const getLaunches = async (categoryId) => {
+export const getLaunches = async () => {
 
     const res = await axios.get(`https://api.spacexdata.com/v3/launches`);
 
