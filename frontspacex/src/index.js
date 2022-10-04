@@ -6,6 +6,7 @@ import { Route, Routes } from 'react-router';
 
 // import Button from './componant/Button';
 import Launches from './pages/launches';
+import Capsules from './pages/capsules';
 
 import './index.css';
 
@@ -14,6 +15,7 @@ const App = () => {
     return <Router>
       <Routes>
           <Route path="/launches/" element={<Launches/>}></Route>
+          <Route path="/capsules/" element={<Capsules/>}></Route>
       </Routes>
     </Router>
 }
