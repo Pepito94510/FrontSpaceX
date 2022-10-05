@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+*{
+  box-sizing: border-box;
+}
+
+.axel{
+  background-color: rgb(138, 160, 207);
+  text-align: center;
+  padding: 20px;
+  box-shadow: rgb(224, 218, 208) 4px 4px 4px 10px;
+}
+
+.kol-1{
+  width: 50%;
+  margin: 20px auto;
+}
+
+ul{
+  display: flex;
+}
+
+li{
+   list-style-type: none;
+   box-shadow: lightgrey 5px 5px 10px;
+   margin: 50px auto; 
+   padding: 50px;
+   border-radius: 1px 1px 10px;
+}
+
+a{
+  font-size: 20px;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+
+button {
+  background-color: transparent;
+  padding: 5px 10px;
+  border: none;
+  margin: 15px;
+  box-shadow: lightgray 3px 3px 7px;
+  margin-right: 20px;
+  font-size: 16px;
+  font-weight: 500;
+}
