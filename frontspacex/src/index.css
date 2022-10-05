@@ -12,15 +12,18 @@ code {
     monospace;
 }
 
+
+
 *{
   box-sizing: border-box;
 }
 
 .axel{
-  background-color: rgb(138, 160, 207);
+  background-image:
+  conic-gradient(from 40deg, #fff, #000);
   text-align: center;
   padding: 20px;
-  box-shadow: rgb(224, 218, 208) 4px 4px 4px 10px;
+  box-shadow: rgb(224, 218, 208) 4px 4px 4px 5px;
 }
 
 .kol-1{
@@ -44,16 +47,15 @@ a{
   font-size: 20px;
   font-weight: bolder;
   text-decoration: none;
+  color: black;
 }
 
 
-button {
-  background-color: transparent;
+button{
   padding: 5px 10px;
   border: none;
   margin: 15px;
   box-shadow: lightgray 3px 3px 7px;
-  margin-right: 20px;
   font-size: 16px;
-  font-weight: 500;
+  color: black; 
 }

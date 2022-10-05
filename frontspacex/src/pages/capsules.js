@@ -37,18 +37,10 @@ const Capsules = () => {
                 </tbody>
 
             </table>
-            
-            <button>
-                <a class="btn btn-primary" href="/launches" role="button">
-                        View All Launches
-                </a>
-                </button>
 
-                <button>
-                <a class="btn btn-primary" href="/home" role="button">
-                        Back to the Home
-                </a>
-                </button>
+            <button><a href="/launches">View All Launches</a></button>
+            <button><a href="/home">Back to the Home</a></button>
+
         </div>
     )
 }
