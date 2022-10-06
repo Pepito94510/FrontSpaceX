@@ -39,8 +39,8 @@ const Launches = () => {
                 </tbody>
             </table>
 
-            <button><a href="/capsules">View All Capsules</a></button>
-            <button><a href="/">Back to the Home</a></button>
+            <button><a href="/capsules">View all Capsules</a></button>
+            <button><a href="/">Home</a></button>
 
         </div>
     )
