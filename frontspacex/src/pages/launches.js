@@ -40,7 +40,7 @@ const Launches = () => {
             </table>
 
             <button><a href="/capsules">View All Capsules</a></button>
-            <button><a href="/home">Back to the Home</a></button>
+            <button><a href="/">Back to the Home</a></button>
 
         </div>
     )
