@@ -8,7 +8,7 @@ const Home = () => {
 
         <div class="kol-1">
             <ul>
-                <li><a href="/launches">Lunches 🧑‍🚀</a></li>
+                <li><a href="/launches">Launches 🧑‍🚀</a></li>
                 <li><a href="/capsules">Capsules 🚀</a></li>
            </ul>
         </div>
