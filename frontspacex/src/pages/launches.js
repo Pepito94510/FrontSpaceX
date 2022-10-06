@@ -38,6 +38,10 @@ const Launches = () => {
                     }
                 </tbody>
             </table>
+
+            <button><a href="/capsules">View all Capsules</a></button>
+            <button><a href="/">Home</a></button>
+
         </div>
     )
 }

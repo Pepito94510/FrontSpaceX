@@ -35,7 +35,12 @@ const Capsules = () => {
                         </tr>)
                     }
                 </tbody>
+
             </table>
+
+            <button><a href="/launches">View all Launches</a></button>
+            <button><a href="/">Home</a></button>
+
         </div>
     )
 }
