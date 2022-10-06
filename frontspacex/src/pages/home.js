@@ -2,7 +2,7 @@
 const Home = () => {
     return (<>
 
-        <div class="axel">
+        <div class="titleDiv">
             <h1>Front Space X</h1>
         </div>
 
